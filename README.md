@@ -17,7 +17,11 @@ Welcome to my personal portfolio website! This site showcases my skills, project
 
 ## About Me
 
-Hey, I'm Swayam, a third-year Computer Science student at BMSIT&M. I specialize in web development and data analytics, with a passion for crafting impactful solutions. I'm skilled in languages like C, Java, Python, and tools like Node.js and React.js. 🌐
+Hey, I'm Swayam — a Software Engineer with a passion for Artificial Intelligence and solving real-world problems through technology. I specialize in AI/ML and have a strong foundation in software development and data-driven systems. I love building intelligent, scalable solutions that make an impact.
+
+I'm proficient in programming languages like Python, Java, and C, and experienced with tools and frameworks such as React.js, Node.js, and various ML and GenAI libraries.
+
+Always curious, always learning — especially when it comes to emerging tech and innovative ideas. 🚀
 
 ## Certifications
 
