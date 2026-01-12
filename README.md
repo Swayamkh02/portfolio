@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio website! This site showcases my skills, projects, and certifications, reflecting my journey in software development and data science. 🚀
 
-[![View My Portfolio](https://img.shields.io/badge/View_Portfolio-Here!-blue)](https://swayamkhandelwal.live/)
+[![View My Portfolio](https://img.shields.io/badge/View_Portfolio-Here!-blue)](https://swayamkhandelwal.in/)
 
 
 ## Table of Contents
