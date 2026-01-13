@@ -11,7 +11,7 @@ Disallow: /drafts/
 Disallow: /scripts/
 
 # Sitemap location
-Sitemap: https://swayamkhandelwal.live/sitemap.xml
+Sitemap: https://swayamkhandelwal.in/sitemap.xml
 
 # Prevent search engines from indexing certain file types
 Disallow: /*.pdf$
