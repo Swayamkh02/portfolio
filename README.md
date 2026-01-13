@@ -100,4 +100,4 @@ Feel free to reach out for collaborations or inquiries:
 - **Email:** SwayamKhandelwal02@gmail.com
 - **LinkedIn:** [Swayam Khandelwal](https://www.linkedin.com/in/swayam-khandelwal/)
 - **GitHub:** [Swayam Khandelwal](https://github.com/Swayamkh02)
-Thank you for visiting my portfolio!
+<br></br>Thank you for visiting my portfolio!
